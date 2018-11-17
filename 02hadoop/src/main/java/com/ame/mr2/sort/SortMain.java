@@ -15,13 +15,13 @@ public class SortMain extends Configured implements Tool{
     @Override
     public int run(String[] args) throws Exception {
         //获取job对象
-        Job job = Job.getInstance(super.getConf(), "xxsdsdlf");
+        Job job = Job.getInstance(super.getConf(), "combiner");
 
         job.setJarByClass(SortMain.class);
 
         //第一步：读取文件，解析成key,value对
         job.setInputFormatClass(TextInputFormat.class);
-        TextInputFormat.addInputPath(job,new Path("file:///F:\\传智播客大数据离线阶段课程资料\\4、大数据离线第四天\\排序\\input"));
+        TextInputFormat.addInputPath(job,new Path("file:///G:\\input"));
 
         //第二步：设置我们的mapper类
         job.setMapperClass(SortMapper.class);
@@ -40,7 +40,7 @@ public class SortMain extends Configured implements Tool{
 
         //第八步：数据输出
         job.setOutputFormatClass(TextOutputFormat.class);
-        TextOutputFormat.setOutputPath(job,new Path("file:///F:\\传智播客大数据离线阶段课程资料\\4、大数据离线第四天\\排序\\outSort"));
+        TextOutputFormat.setOutputPath(job,new Path("file:///G:\\outSort"));
         //提交任务
         boolean b = job.waitForCompletion(true);
         return b?0:1;
