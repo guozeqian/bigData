@@ -8,6 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="01zookeeper" />
         <module name="02hadoop" />
+        <module name="03hive" />
+        <module name="04flume" />
+        <module name="05webLogParser" />
       </profile>
     </annotationProcessing>
   </component>

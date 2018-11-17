@@ -9,8 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>hadoop</module>
         <module>01zookeeper</module>
+        <module>02hadoop</module>
+        <module>03hive</module>
+        <module>04flume</module>
+        <module>05webLogParser</module>
     </modules>
 
 
