@@ -1,0 +1,34 @@
+
+=============== [2018/11/18 10:20:26, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:20:26] INFO:    SSHExec initializing ...
+[10:20:27] INFO:    Session initialized and associated with user credential 111111
+[10:20:27] INFO:    SSHExec initialized successfully
+[10:20:27] INFO:    SSHExec trying to connect root@node03
+[10:20:28] INFO:    SSH connection established
+[10:20:28] INFO:    Command is echo 'helloworld' >>/export/servers/abchello.txt
+[10:20:28] INFO:    Connection channel established succesfully
+[10:20:28] INFO:    Start to run command
+[10:20:28] INFO:    Connection channel closed
+[10:20:28] INFO:    Check if exec success or not ... 
+[10:20:28] INFO:    Execute successfully for command: echo 'helloworld' >>/export/servers/abchello.txt
+[10:20:28] INFO:    Now wait 5 seconds to begin next task ...
+[10:20:33] INFO:    Connection channel disconnect
+[10:20:33] INFO:    SSH connection shutdown
+
+=============== [2018/11/18 17:00:36, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[17:00:36] INFO:    SSHExec initializing ...
+[17:00:36] INFO:    Session initialized and associated with user credential 111111
+[17:00:36] INFO:    SSHExec initialized successfully
+[17:00:36] INFO:    SSHExec trying to connect root@node03
+[17:00:37] INFO:    SSH connection established
+[17:00:37] INFO:    Command is echo 'helloworld' >>/export/servers/abchello.txt
+[17:00:37] INFO:    Connection channel established succesfully
+[17:00:37] INFO:    Start to run command
+[17:00:37] INFO:    Connection channel closed
+[17:00:37] INFO:    Check if exec success or not ... 
+[17:00:37] INFO:    Execute successfully for command: echo 'helloworld' >>/export/servers/abchello.txt
+[17:00:37] INFO:    Now wait 5 seconds to begin next task ...
+[17:00:42] INFO:    Connection channel disconnect
+[17:00:42] INFO:    SSH connection shutdown

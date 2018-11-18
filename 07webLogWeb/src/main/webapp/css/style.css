@@ -912,7 +912,7 @@ ul.top-menu>li>a:hover,ul.top-menu>li>a:focus {
 	float: left;
 	text-align: center;
 	-webkit-border-radius: 5px 5px 0 0;
-	-moz-border-radius: 5px 5px 0 0x;
+	-moz-border-radius: 5px 5px 0 0;
 	border-radius: 5px 5px 0 0;
 	z-index: 10;
 }
@@ -1507,7 +1507,7 @@ h3.timeline-title {
     /* Safari and Chrome */
 	.panel-footer.revenue-foot {
 		margin-bottom: -4px;
-	};
+	}
 }
 
 .panel-footer.revenue-foot ul {
