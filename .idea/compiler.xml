@@ -11,6 +11,7 @@
         <module name="03hive" />
         <module name="04flume" />
         <module name="05webLogParser" />
+        <module name="06sshxcute" />
       </profile>
     </annotationProcessing>
   </component>
