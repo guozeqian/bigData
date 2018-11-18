@@ -12,6 +12,8 @@
         <module name="04flume" />
         <module name="05webLogParser" />
         <module name="06sshxcute" />
+        <module name="07webLogWeb" />
+        <module name="hadoop" />
       </profile>
     </annotationProcessing>
   </component>

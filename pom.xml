@@ -15,6 +15,7 @@
         <module>04flume</module>
         <module>05webLogParser</module>
         <module>06sshxcute</module>
+        <module>07webLogWeb</module>
     </modules>
 
 
