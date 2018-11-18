@@ -13,6 +13,8 @@
         <module name="05webLogParser" />
         <module name="06sshxcute" />
         <module name="07webLogWeb" />
+        <module name="08impala" />
+        <module name="09kafka" />
         <module name="hadoop" />
       </profile>
     </annotationProcessing>

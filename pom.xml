@@ -16,6 +16,8 @@
         <module>05webLogParser</module>
         <module>06sshxcute</module>
         <module>07webLogWeb</module>
+        <module>08impala</module>
+        <module>09kafka</module>
     </modules>
 
 
