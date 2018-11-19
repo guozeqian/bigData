@@ -15,6 +15,13 @@
         <module name="07webLogWeb" />
         <module name="08impala" />
         <module name="09kafka" />
+        <module name="10readBoard" />
+        <module name="11storm" />
+        <module name="12flume_interceptor" />
+        <module name="13logMonitor" />
+        <module name="14stormTickTimeMySql" />
+        <module name="15stormToHdfs" />
+        <module name="16wifidataProcess" />
         <module name="hadoop" />
       </profile>
     </annotationProcessing>

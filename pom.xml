@@ -18,6 +18,13 @@
         <module>07webLogWeb</module>
         <module>08impala</module>
         <module>09kafka</module>
+        <module>10readBoard</module>
+        <module>11storm</module>
+        <module>12flume_interceptor</module>
+        <module>13logMonitor</module>
+        <module>14stormTickTimeMySql</module>
+        <module>15stormToHdfs</module>
+        <module>16wifidataProcess</module>
     </modules>
 
 
