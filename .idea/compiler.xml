@@ -23,6 +23,7 @@
         <module name="15stormToHdfs" />
         <module name="16wifidataProcess" />
         <module name="17scala" />
+        <module name="18spark" />
         <module name="hadoop" />
       </profile>
     </annotationProcessing>

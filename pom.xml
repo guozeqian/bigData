@@ -26,6 +26,7 @@
         <module>15stormToHdfs</module>
         <module>16wifidataProcess</module>
         <module>17scala</module>
+        <module>18spark</module>
     </modules>
 
 
