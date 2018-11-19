@@ -22,6 +22,7 @@
         <module name="14stormTickTimeMySql" />
         <module name="15stormToHdfs" />
         <module name="16wifidataProcess" />
+        <module name="17scala" />
         <module name="hadoop" />
       </profile>
     </annotationProcessing>

@@ -25,6 +25,7 @@
         <module>14stormTickTimeMySql</module>
         <module>15stormToHdfs</module>
         <module>16wifidataProcess</module>
+        <module>17scala</module>
     </modules>
 
 
