@@ -24,6 +24,8 @@
         <module name="16wifidataProcess" />
         <module name="17scala" />
         <module name="18spark" />
+        <module name="19hbase" />
+        <module name="20phoenix_web" />
         <module name="hadoop" />
       </profile>
     </annotationProcessing>

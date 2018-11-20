@@ -27,6 +27,8 @@
         <module>16wifidataProcess</module>
         <module>17scala</module>
         <module>18spark</module>
+        <module>19hbase</module>
+        <module>20phoenix_web</module>
     </modules>
 
 
